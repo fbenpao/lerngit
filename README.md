@@ -4,6 +4,6 @@
 <pre>
   学习使用github
 </pre>
-<a href="www.baidu.com">百度搜索</a>
+[百度搜索](http://www.baidu.com) 
 </body>
 </html>
