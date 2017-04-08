@@ -7,4 +7,4 @@
 
 </body>
 </html>
-[百度搜索](http://www.baidu.com) 
+http://www.baidu.com
